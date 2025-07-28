@@ -15,6 +15,4 @@
 ## 🚀 **Quick Start**  
 ### **1. Clone & Run**  
 ```bash
-git clone https://github.com/yourusername/project-obfuscator.git
-cd project-obfuscator
-python obfuscator.py --path /your/project --mode aggressive
+python projobf.py (yourproject) (youroutput)
